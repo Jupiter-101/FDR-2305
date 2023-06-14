@@ -1,0 +1,19 @@
+
+#form{
+   
+    background-color: beige;
+    text-align:left;
+   height:fit-content;
+}
+
+label{
+    font-weight: bold;
+}
+
+button{
+    background-color: gray;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    font-size: large;
+}
