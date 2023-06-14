@@ -1,0 +1,660 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 430px;
+    width: 430px;
+    background: rgb(55, 53, 53);
+    position: relative;
+    margin: 80px auto;
+}
+.board{
+    height: 400px;
+    width: 400px;
+    background: #b7a8a8;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/* row one starts */
+
+.aone{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.atwo{
+    height: 50px;
+    width: 50px;
+    background:brown;
+    ;
+    position: absolute;
+    top: 0;
+    left: 50px;
+}.athree{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 0;
+    left: 100px;
+}.afour{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 0;
+    left: 150px;
+}.afive{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 0;
+    left: 200px;
+}.asix{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 0;
+    left: 250px;
+}.aseven{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 0;
+    left: 300px;
+}.aeight{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 0;
+    left: 350px;
+}
+
+/* row one ends */
+
+/* row two starts */
+
+.bone{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 50px;
+    left: 0;
+}
+.btwo{
+    height: 50px;
+    width: 50px;
+    background:#d4caca
+    ;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}.bthree{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}.bfour{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}.bfive{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}.bsix{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 50px;
+    left: 250px;
+}.bseven{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}.beight{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+}
+
+/* row two ends */
+
+/* row three starts */
+
+.cone{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+.ctwo{
+    height: 50px;
+    width: 50px;
+    background:brown;
+    ;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}.cthree{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}.cfour{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}.cfive{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}.csix{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+}.cseven{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}.ceight{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+}
+
+/* row three ends */
+
+/* row four starts */
+
+.done{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 150px;
+    left: 0;
+}
+.dtwo{
+    height: 50px;
+    width: 50px;
+    background:#d4caca;
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+.dthree{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+.dfour{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.dfive{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+.dsix{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+}
+.dseven{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+.deight{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 150px;
+    left: 350px;
+}
+
+/* row four ends */
+
+/* row five starts */
+
+.eone{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 200px;
+    left: 0;
+}
+.etwo{
+    height: 50px;
+    width: 50px;
+    background:brown;
+    ;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+}.ethree{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}.efour{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}.efive{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}.esix{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}.eseven{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}.eeight{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 200px;
+    left: 350px;
+}
+
+/* row five ends */
+
+/* row six starts */
+
+.fone{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 250px;
+    left: 0;
+}
+.ftwo{
+    height: 50px;
+    width: 50px;
+    background:#d4caca;
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+.fthree{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+.ffour{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+.ffive{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+}
+.fsix{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.fseven{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 250px;
+    left: 300px;
+}
+.feight{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 250px;
+    left: 350px;
+}
+
+/* row six ends */
+
+/* row seven starts */
+
+.gone{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 300px;
+    left: 0;
+}
+.gtwo{
+    height: 50px;
+    width: 50px;
+    background:brown;
+    ;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+}
+.gthree{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+}.gfour{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}.gfive{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 300px;
+    left: 200px;
+}.gsix{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 300px;
+    left: 250px;
+}.gseven{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}.geight{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+
+/* row seven ends */
+
+/* row eight starts */
+
+.hone{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 350px;
+    left: 0;
+}
+.htwo{
+    height: 50px;
+    width: 50px;
+    background:#d4caca;
+    position: absolute;
+    top: 350px;
+    left: 50px;
+}
+.hthree{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.hfour{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 350px;
+    left: 150px;
+}
+.hfive{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 350px;
+    left: 200px;
+}
+.hsix{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 350px;
+    left: 250px;
+}
+.hseven{
+    height: 50px;
+    width: 50px;
+    background: brown;
+    position: absolute;
+    top: 350px;
+    left: 300px;
+}
+.height{
+    height: 50px;
+    width: 50px;
+    background: #d4caca;
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+
+/* row eight ends */
+
+/* black units */
+.black_castlea{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_hoursea{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_prista{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_king{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_queen{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_pristb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_hourseb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.black_castleb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.unitb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/* white units */
+.white_castlea{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_hoursea{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_prista{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_king{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_queen{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_pristb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_hourseb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.white_castleb{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.unita{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}

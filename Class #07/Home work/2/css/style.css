@@ -1,0 +1,883 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    height: 930px;
+    width: 850px;
+    background: teal;
+    position: relative;
+    margin: 100px auto;
+}
+
+.row_one{
+    height: 100px;
+    width:850px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  
+}
+.row_two{
+    height: 100px;
+    width:850px;
+    position: absolute;
+    top: 100px;
+    left: 0;
+}
+.row_three{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 200px;
+    left: 0;
+    
+}
+.row_four{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 300px;
+    left: 0;
+  
+}
+.row_five{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 400px;
+    left: 0;
+   
+}
+.row_six{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 500px;
+    left: 0;
+    
+}
+.row_seven{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 600px;
+    left: 0;
+ 
+}
+.row_eight{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 700px;
+    left: 0;
+}
+.row_nine{
+    height: 100px;
+    width: 850px;
+    position: absolute;
+    top: 800px;
+    left: 0;
+ 
+}
+
+/* alpha row starts */
+.row_one_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_two_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_three_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_four_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_five_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_six_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_seven_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_eight_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+.row_nine_alpha{
+    height: 60px;
+    width: 850px;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    background: hsl(35, 78%, 60%);
+    z-index: 1;
+}
+/* alpha rows ends */
+
+/* colam starts */
+.acolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+    
+}
+.acolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+    z-index: 2;
+}
+.acolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+}
+.acolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+    z-index: 2;
+}
+.acolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+}
+.acolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+    z-index: 2;
+}
+.acolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+}
+.acolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+    z-index: 2;
+}
+.acolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+}
+/* colam ends */
+
+/* colam starts */
+.bcolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+    z-index: 2;
+}
+.bcolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+}
+.bcolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+    z-index: 2;
+}
+.bcolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+}
+.bcolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+    z-index: 2;
+}
+.bcolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+}
+.bcolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+    z-index: 2;
+}
+.bcolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+}
+.bcolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+    z-index: 2;
+}
+/* colam ends */
+
+/* colam starts */
+.ccolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+}
+.ccolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+    z-index: 2;
+}
+.ccolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+}
+.ccolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+    z-index: 2;
+}
+.ccolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+}
+.ccolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+    z-index: 2;
+}
+.ccolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+}
+.ccolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+    z-index: 2;
+}
+.ccolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+}
+/* colam ends */
+
+/* colam starts */
+.dcolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+    z-index: 2;
+}
+.dcolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+}
+.dcolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+    z-index: 2;
+}
+.dcolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+}
+.dcolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+    z-index: 2;
+}
+.dcolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+}
+.dcolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+    z-index: 2;
+}
+.dcolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+}
+.dcolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+    z-index: 2;
+}
+/* colam ends */
+
+/* colam starts */
+.ecolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+}
+.ecolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+    z-index: 2;
+}
+.ecolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+}
+.ecolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+    z-index: 2;
+}
+.ecolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+}
+.ecolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+    z-index: 2;
+}
+.ecolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+}
+.ecolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+    z-index: 2;
+}
+.ecolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+}
+/* colam ends */
+
+/* colam starts */
+.fcolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+    z-index: 2;
+}
+.fcolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+}
+.fcolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+    z-index: 2;
+}
+.fcolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+}
+.fcolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+    z-index: 2;
+}
+.fcolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+}
+.fcolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+    z-index: 2;
+}
+.fcolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+}
+.fcolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+    z-index: 2;
+}
+/* colam ends */
+
+/* colam starts */
+.gcolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+}
+.gcolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+    z-index: 2;
+}
+.gcolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+}
+.gcolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+    z-index: 2;
+}
+.gcolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+}
+.gcolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+    z-index: 2;
+}
+.gcolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+}
+.gcolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+    z-index: 2;
+}
+.gcolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+}
+/* colam ends */
+
+/* colam starts */
+.hcolam_one{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+    z-index: 2;
+}
+.hcolam_two{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+}
+.hcolam_three{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+    z-index: 2;
+}
+.hcolam_four{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+}
+.hcolam_five{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+    z-index: 2;
+}
+.hcolam_six{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+}
+.hcolam_seven{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+    z-index: 2;
+}
+.hcolam_eight{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+}
+.hcolam_nine{
+    height: 100px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+    z-index: 2;
+}
+/* colam ends */
+
+/* colam starts */
+.icolam_one{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 30px;
+}
+.icolam_two{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 120px;
+    z-index: 2;
+}
+.icolam_three{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 210px;
+}
+.icolam_four{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 300px;
+    z-index: 2;
+}
+.icolam_five{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 390px;
+}
+.icolam_six{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 480px;
+    z-index: 2;
+}
+.icolam_seven{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 570px;
+}
+.icolam_eight{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 660px;
+    z-index: 2;
+}
+.icolam_nine{
+    height: 130px;
+    width: 60px;
+    position: absolute;
+    background: #88e418;
+    top: 0;
+    left: 750px;
+}
+/* colam ends */
